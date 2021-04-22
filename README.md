@@ -17,7 +17,7 @@ I pulled data from the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquake
  
    * The map is created by using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude. 
    * Earthquakes with higher magnitudes appear larger and are colored with a gradient from green to red. 
-     * Magnitude and Location data are shown with a popup when an individual earthquake is clicked.
+   * Magnitude and Location data are shown with a popup when an individual earthquake is clicked.
  
  #### Basic Map
 
@@ -27,9 +27,10 @@ I pulled data from the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquake
 ### Level 2: Earthquakes Advanced Visualization
 
 I applied a second dataset as a layer on the map to illustrate the relationship between tectonic plates and seismic activity. 
+
 The tectonic plate data can be found here. <https://github.com/fraxen/tectonicplates>. 
 
-Layer controls were also added in this stage.ose 
+Layer controls were also added in this stage.
 
 #### Map with Layer Controls
 
