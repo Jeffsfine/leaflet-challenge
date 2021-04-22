@@ -42,7 +42,7 @@ In this task:
 
 
 
-### The Final View Looks as Follows :
+### Final Product in action! :
 
 
 ![Final View](https://user-images.githubusercontent.com/74028387/115660557-2b83f200-a30a-11eb-9edc-be0da836bbdb.gif)
