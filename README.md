@@ -22,7 +22,8 @@ I used [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geoj
  
  The map looks as follows:
 
-![2-BasicMap](Images/2-BasicMap.png)
+![1](https://user-images.githubusercontent.com/74028387/115660246-c0d2b680-a309-11eb-9704-4df68e752316.png)
+
 
 ### Level 2: Earthquakes Advanced Visualization
 
@@ -36,10 +37,14 @@ In this task:
 * Add  a layer controls to the map.
 
 
-![5-Advanced](Images/5-Advanced.png)
+![2](https://user-images.githubusercontent.com/74028387/115660283-c7612e00-a309-11eb-89dd-ed08cbe2b568.png)
+
 
 
 ### The Final View Looks as Follows :
 
 
-<img src="Images/all_in_gif.gif" height="500" width="900" />
+![Final View](https://user-images.githubusercontent.com/74028387/115660557-2b83f200-a30a-11eb-9edc-be0da836bbdb.gif)
+
+
+
