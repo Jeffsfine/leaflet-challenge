@@ -20,7 +20,7 @@ I used [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geoj
      * A popups included to provide additional information about the earthquake when a marker is clicked
      * legend added to provide context of the map data.
  
- The map looks as follows:
+ #### Basic Map
 
 ![1](https://user-images.githubusercontent.com/74028387/115660246-c0d2b680-a309-11eb-9704-4df68e752316.png)
 
@@ -36,6 +36,7 @@ In this task:
 
 * Add  a layer controls to the map.
 
+#### Map with Layer Controls
 
 ![2](https://user-images.githubusercontent.com/74028387/115660283-c7612e00-a309-11eb-89dd-ed08cbe2b568.png)
 
